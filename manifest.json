@@ -21,15 +21,22 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": "/TextStimulationApp/",
+  "start_url": "/study-portal/",
   "display": "standalone",
   "orientation": "any",
   "theme_color": "#000000",
   "background_color": "#ffffff",
   "prefer_related_applications": false,
-  "categories": ["education", "kids"],
+  "categories": [
+    "education",
+    "kids"
+  ],
   "lang": "ja-JP",
   "dir": "ltr",
-  "scope": "/TextStimulationApp/",
-  "display_override": ["standalone", "fullscreen", "minimal-ui"]
+  "scope": "/study-portal/",
+  "display_override": [
+    "standalone",
+    "fullscreen",
+    "minimal-ui"
+  ]
 }
